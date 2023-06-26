@@ -1,0 +1,18 @@
+
+    .matn{
+        margin-left: 600px;
+        margin-top: 300px;
+        border-left: 8px solid rgb(7, 220, 7);
+        padding-left: 10px;
+        background-color: rgb(242, 246, 249);
+        width: 230px;
+        padding: 10px;
+    }
+    button{
+        margin-left: 70px;
+        margin-bottom: 10px;
+        background-color: greenyellow;
+        border: none;
+        color: white;
+        padding: 5px;
+    }
